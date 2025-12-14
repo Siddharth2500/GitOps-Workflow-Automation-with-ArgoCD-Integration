@@ -1,5 +1,4 @@
-Here's the complete, detailed README in one block:
-markdown# 🔄 Project 6: GitOps Workflow Automation with ArgoCD Integration
+GitOps Workflow Automation with ArgoCD Integration
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![GitOps](https://img.shields.io/badge/GitOps-ArgoCD-orange.svg)](https://argoproj.github.io/)
