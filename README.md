@@ -8,7 +8,7 @@ GitOps Workflow Automation with ArgoCD Integration
 
 ------
 <img width="1790" height="989" alt="image" src="https://github.com/user-attachments/assets/e3c42374-e60b-4498-8799-27659390ba70" />
-----
+------
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Key Features](#key-features)
