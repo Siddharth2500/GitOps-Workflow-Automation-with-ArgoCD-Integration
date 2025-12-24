@@ -47,7 +47,7 @@ This project simulates a complete GitOps workflow with ArgoCD integration, demon
 - **DORA Metrics**: Track and measure DevOps performance using industry-standard metrics
 - **Multi-Environment Management**: Progressive delivery with approval gates
 - **Visual Analytics**: Comprehensive dashboards showing deployment health and trends
-
+---
 ### Why This Project is Unique
 Unlike simple deployment simulators, this project:
 - ✅ Implements complete DORA metrics tracking (Google's DevOps Research framework)
