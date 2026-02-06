@@ -6,7 +6,7 @@ GitOps Workflow Automation with ArgoCD Integration
 [![DORA](https://img.shields.io/badge/DORA-Metrics-green.svg)](https://dora.dev/)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-success.svg)]()
 
-----------
+-------------
 <img width="1790" height="989" alt="image" src="https://github.com/user-attachments/assets/e3c42374-e60b-4498-8799-27659390ba70" />
 ----
 ## 📋 Table of Contents
