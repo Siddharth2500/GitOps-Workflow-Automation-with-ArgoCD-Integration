@@ -130,7 +130,7 @@ Six comprehensive panels showing:
 - Application deployment frequency
 - DORA metrics scorecard with maturity level
 
----
+-----
 
 ## 🛠️ Technology Stack
 
