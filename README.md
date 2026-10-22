@@ -34,7 +34,7 @@ GitOps Workflow Automation with ArgoCD Integration
 - [ROI & Business Value](#roi--business-value)
 - [Comparison with Traditional CI/CD](#comparison-with-traditional-cicd)
 
----
+------
 
 ## 📋 Overview
 
